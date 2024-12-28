@@ -38,8 +38,10 @@ This project provides a comprehensive analysis of global earthquake data from 19
   - `cartopy`
   - `scikit-learn`
 
-### **Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/earthquake-analysis.git
-   cd earthquake-analysis
+**Usage**
+Running the Dashboard
+-`python dashboard.py`
+Running the Predictive Model
+`-python main.ipynb`
+
+
